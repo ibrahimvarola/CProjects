@@ -1,0 +1,3 @@
+D:/CProjects/type_casting/cmake-build-debug/CMakeFiles/type_casting.dir
+D:/CProjects/type_casting/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CProjects/type_casting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
