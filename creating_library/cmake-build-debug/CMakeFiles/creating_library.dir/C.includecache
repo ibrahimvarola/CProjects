@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CProjects/creating_library/library.h
+
+D:/CProjects/creating_library/main.c
+stdio.h
+-
+library.h
+D:/CProjects/creating_library/library.h
+

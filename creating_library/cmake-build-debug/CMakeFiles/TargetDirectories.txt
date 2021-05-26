@@ -1,0 +1,3 @@
+D:/CProjects/creating_library/cmake-build-debug/CMakeFiles/creating_library.dir
+D:/CProjects/creating_library/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CProjects/creating_library/cmake-build-debug/CMakeFiles/rebuild_cache.dir

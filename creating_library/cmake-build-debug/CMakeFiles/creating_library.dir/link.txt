@@ -1,0 +1,3 @@
+"D:\Programlar\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\creating_library.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\creating_library.dir/objects.a @CMakeFiles\creating_library.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\creating_library.dir/objects.a -Wl,--no-whole-archive -o creating_library.exe -Wl,--out-implib,libcreating_library.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\creating_library.dir\linklibs.rsp
