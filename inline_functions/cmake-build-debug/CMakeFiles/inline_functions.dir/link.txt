@@ -1,0 +1,3 @@
+"D:\Programlar\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\inline_functions.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\inline_functions.dir/objects.a @CMakeFiles\inline_functions.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\inline_functions.dir/objects.a -Wl,--no-whole-archive -o inline_functions.exe -Wl,--out-implib,libinline_functions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\inline_functions.dir\linklibs.rsp
